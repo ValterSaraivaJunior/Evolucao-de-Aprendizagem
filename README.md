@@ -25,6 +25,11 @@
 - TypeScript é uma linguagem de programação relacionada ao JavaScript.
 - Métodos de strings são maneiras de manipular texto em programação.
 - Arrays ainda to meio perdido mas revendo as aulas irei pegar tranquilo
+  
+ ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- quero me aprofundar em logica, estudando por fora percebi que ela e a base pra todas linguagens e tudo que envolve programação.
+
 
   ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
   
